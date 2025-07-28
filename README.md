@@ -1,8 +1,4 @@
-Here is a professional and detailed `README.md` file for your **Customer Segmentation Analytics** project:
 
----
-
-```markdown
 # 📊 Customer Segmentation Analytics
 
 A data-driven customer segmentation system using **RFM analysis** and **K-Means clustering** on 1M+ transactions. This project focuses on understanding customer behavior patterns by applying feature engineering, scaling, and clustering techniques, enabling businesses to personalize marketing strategies.
